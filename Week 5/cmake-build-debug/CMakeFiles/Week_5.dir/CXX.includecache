@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/magicgh/homework-cpp/Week 5/employee.h
+person.h
+/home/magicgh/homework-cpp/Week 5/person.h
+
+/home/magicgh/homework-cpp/Week 5/main.cpp
+iostream
+-
+employee.h
+/home/magicgh/homework-cpp/Week 5/employee.h
+
+/home/magicgh/homework-cpp/Week 5/person.h
+iostream
+-
+cstdio
+-
+string
+-
+
