@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/magicgh/Desktop/homework-cpp/Week 6/admin.h
+teacher.h
+C:/Users/magicgh/Desktop/homework-cpp/Week 6/teacher.h
+vector
+-
+
+C:/Users/magicgh/Desktop/homework-cpp/Week 6/main.cpp
+iostream
+-
+person.h
+C:/Users/magicgh/Desktop/homework-cpp/Week 6/person.h
+student.h
+C:/Users/magicgh/Desktop/homework-cpp/Week 6/student.h
+teacher.h
+C:/Users/magicgh/Desktop/homework-cpp/Week 6/teacher.h
+admin.h
+C:/Users/magicgh/Desktop/homework-cpp/Week 6/admin.h
+
+C:/Users/magicgh/Desktop/homework-cpp/Week 6/person.h
+iostream
+-
+string
+-
+cstdio
+-
+
+C:/Users/magicgh/Desktop/homework-cpp/Week 6/student.h
+person.h
+C:/Users/magicgh/Desktop/homework-cpp/Week 6/person.h
+
+C:/Users/magicgh/Desktop/homework-cpp/Week 6/teacher.h
+person.h
+C:/Users/magicgh/Desktop/homework-cpp/Week 6/person.h
+
