@@ -1,7 +1,7 @@
 # Week 6
 ## Task 1
 > 1. Define a class called ComponentBase which includes members like length, width, and corresponding interfaces which can set and output the values.  
-> 2. Define a class called Window which virtually inherits from ComponentBase and rewrites its interfaces. Also this class must include a member cost and its corresponding functions which can set and output the value.  
+> 2. Define a class called Window which virtually inherits from ComponentBase and overrides its interfaces. Also this class must include a member cost and its corresponding functions which can set and output the value.  
     
 **Requirement**: Create a Window instance, and call the set functions and output functions.  
   
