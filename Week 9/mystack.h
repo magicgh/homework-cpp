@@ -13,7 +13,8 @@ using namespace std;
 template <typename T> class Stack{
     private:
         T* _stack;
-        unsigned int _cap, _top;
+        unsigned int _cap;
+        int _top;
     public:
         Stack(unsigned int cap){
             _cap= cap;
@@ -34,7 +35,7 @@ template <typename T> class Stack{
             return _top+1;
         }
 
-        inline unsigned capacity() const{
+        inline unsigned int capacity() const{
             return _cap;
         }
 

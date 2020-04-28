@@ -20,6 +20,5 @@ int main() {
         s2.pop();
     }
 
-
     return 0;
 }
