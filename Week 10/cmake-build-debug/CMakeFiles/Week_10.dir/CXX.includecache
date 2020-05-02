@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/magicgh/Desktop/homework-cpp/Week 10/fraction.h
+iostream
+-
+algorithm
+-
+regex
+-
+cmath
+-
+string
+-
+stdexcept
+-
+
+C:/Users/magicgh/Desktop/homework-cpp/Week 10/main.cpp
+iostream
+-
+fraction.h
+C:/Users/magicgh/Desktop/homework-cpp/Week 10/fraction.h
+
