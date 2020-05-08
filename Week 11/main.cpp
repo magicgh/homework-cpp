@@ -62,5 +62,7 @@ int main() {
     linked_List.reverse_iterate();
     linked_List.distinct();
     linked_List.reverse_iterate();
+    linked_List.clear();
+    linked_List.reverse_iterate();
     return 0;
 }
