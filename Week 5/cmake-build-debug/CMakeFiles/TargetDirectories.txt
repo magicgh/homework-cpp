@@ -1,3 +1,0 @@
-/home/magicgh/homework-cpp/Week 5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/magicgh/homework-cpp/Week 5/cmake-build-debug/CMakeFiles/Week_5.dir
-/home/magicgh/homework-cpp/Week 5/cmake-build-debug/CMakeFiles/edit_cache.dir
